@@ -35,6 +35,11 @@ Doesn't support Windows, as one of the libraries isn't compatible with the
 platform.
 
 ## Usage
+Unzip the datasets:
+```
+unzip datasets.zip
+```
+
 To train the network to train on the iris dataset:
 ```
 mix iris_server
