@@ -5,3 +5,4 @@ There are 3 separate code implementations for this project:
     - A single node neural network
     - A distributed parameter server neural network
     - The RingTMP distributed neural network
+
