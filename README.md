@@ -1,2 +1,2 @@
 # batchelor-dissertation-supporting-code
-The supporting code for my bachelors dissertation
+The supporting code for my batchelors dissertation
